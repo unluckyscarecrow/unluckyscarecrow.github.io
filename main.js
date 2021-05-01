@@ -141,7 +141,7 @@ var units = [
     ["Slimecicle",              2,2,1,2,3,3,1,3,2,2,3,2,2,2,2,0,1,2,2,1,"url('https://s3.ap-northeast-1.amazonaws.com/gamewith/article_tools%2Fdq-tact%2Fgacha%2Fmonster_6_i.png')"],
     ["Slimeshroom",             2,3,3,1,2,1,2,3,2,2,3,2,2,2,2,0,1,2,2,1,"url('https://s3.ap-northeast-1.amazonaws.com/gamewith/article_tools%2Fdq-tact%2Fgacha%2Fmonster_96_i.png')"],
     ["Striking Sabrecat",       2,3,3,1,2,1,2,3,2,3,2,2,2,1,0,1,2,2,2,2,"url('https://s3.ap-northeast-1.amazonaws.com/gamewith/article_tools%2Fdq-tact%2Fgacha%2Fmonster_7_i.png')"],
-    ["Umbra",                   2,2,1,1,2,3,3,2,2,1,2,3,2,2,2,2,2,0,2,3,"url('https://img.altema.jp/dqtact/monster/icon/159.jpg')"],
+    ["Umbra",                   2,1,1,2,3,3,2,2,1,2,3,2,2,2,2,2,2,0,2,3,"url('https://img.altema.jp/dqtact/monster/icon/159.jpg')"],
     ["Wyrtoise",                3,3,2,2,1,1,2,2,3,2,2,2,1,2,2,2,2,1,0,3,"url('https://s3.ap-northeast-1.amazonaws.com/gamewith/article_tools%2Fdq-tact%2Fgacha%2Fmonster_98_i.png')"],
 // B Ranks
     ["Bad Karmour",             1,2,2,2,3,3,1,2,0,2,2,1,2,3,2,2,2,1,3,2,"url('https://img.altema.jp/dqtact/monster/icon/23.jpg')"],
