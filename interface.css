@@ -31,6 +31,8 @@ body {
    border-bottom: 1px solid #ffc014;
    display: table-cell;
    text-align: center;
+   background-size: 30px 30px;
+   background-repeat: no-repeat;
 }
 .headrow #icon {
     width:48px;
